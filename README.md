@@ -22,8 +22,8 @@ Drill down into specific metrics for deeper insights.
 
 # How to Use:🔧
 # Clone the Repository:
+https://github.com/Afsheenfatymah/Sales-Analysis-Dashboard-.git
 
-git clone https://github.com/your-username/your-repository.git
 Open the file in Power BI Desktop to explore the dashboard.
 
 # Explore the Dashboard:
@@ -34,6 +34,7 @@ Feel free to provide feedback or reach out with any questions!
 
 # Repository Link:🔗
 Link to Repository
+
 
 # Contact 📧 
 For any questions or suggestions, please contact
