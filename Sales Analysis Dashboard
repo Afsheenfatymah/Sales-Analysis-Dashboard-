@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "bec33841",
+   "id": "3ebc51d5",
    "metadata": {
     "execution": {
      "iopub.execute_input": "2024-08-28T23:26:37.148994Z",
@@ -12,52 +12,85 @@
      "shell.execute_reply.started": "2024-08-28T23:26:37.148933Z"
     },
     "papermill": {
-     "duration": 0.022798,
-     "end_time": "2024-08-28T23:36:41.262736",
+     "duration": 0.021137,
+     "end_time": "2024-08-28T23:47:37.346626",
      "exception": false,
-     "start_time": "2024-08-28T23:36:41.239938",
+     "start_time": "2024-08-28T23:47:37.325489",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
     "🚀 **Sales Analysis Dashboard using Power BI** 📊\n",
+    "\n",
+    "\n",
     "Welcome to my Kaggle Notebook! I’m excited to share my latest project: a Sales Analysis Dashboard created using Power BI.\n",
     "\n",
     "This interactive dashboard offers in-depth insights into sales and profit trends, designed to help you make data-driven decisions.\n",
     "\n",
+    "\n",
+    "\n",
     "🌟 **Dashboard Highlights:**\n",
+    "\n",
     "• **Yearly & Monthly Analysis:** Analyze how sales and profits fluctuate over time.\n",
+    "\n",
     "• **Regional Insights:** Examine performance across various regions.\n",
+    "\n",
     "• **Interactive Visuals:** Engage with dynamic charts and graphs to explore the data.\n",
+    "\n",
+    "\n",
+    "\n",
     "    \n",
     "📈 **Key Features:**\n",
+    "\n",
     "Detailed Time Series Analysis: Visualize and analyze sales trends and seasonal patterns.\n",
     "Regional Performance Metrics: Compare performance metrics across different regions.\n",
     "Interactive Elements: Explore specific metrics through interactive features.\n",
+    "\n",
+    "\n",
+    "\n",
     "    \n",
     "🔧 **How to Access:**\n",
+    "\n",
     "Download the Power BI File:\n",
     "Access the Power BI file from related resources from my GitHub repository.\n",
+    "\n",
     "🔗 https://github.com/Afsheenfatymah/Sales-Analysis-Dashboard-.git\n",
+    "\n",
     "Open the File & Explore the Dashboard.\n",
     "Dive into the different visualizations and analyze the data as needed.\n",
     "\n",
+    "\n",
+    "\n",
+    "\n",
     "📷 **Screenshots:**\n",
-    "Here are some screenshots of the dashboard to give you a preview below.\n",
+    "\n",
+    "Here are some screenshots Attached of the dashboard to give you a preview below.\n",
+    "\n",
+    "\n",
+    "\n",
     "\n",
     "📝 **Additional Notes:**\n",
+    "\n",
     "Ensure you have Power BI Desktop installed for full functionality.\n",
     "\n",
     "Feel free to provide feedback or ask questions!\n",
     "\n",
+    "\n",
+    "\n",
+    "\n",
     "📧 **Contact Information:**\n",
+    "\n",
     "For any questions or suggestions, please contact me:\n",
     "\n",
-    "Email: afsheenfatymah@gmail.com\n",
-    "LinkedIn: www.linkedin.com/in/afsheen-fatima-912757321\n",
-    "GitHub: https://github.com/Afsheenfatymah\n",
-    "Medium: https://medium.com/@afsheenfatymah\n"
+    "Email: \n",
+    "afsheenfatymah@gmail.com\n",
+    "LinkedIn: \n",
+    "www.linkedin.com/in/afsheen-fatima-912757321\n",
+    "GitHub: \n",
+    "https://github.com/Afsheenfatymah\n",
+    "Medium: \n",
+    "https://medium.com/@afsheenfatymah\n"
    ]
   },
   {
@@ -67,13 +100,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "700b1858",
+   "id": "688f26fd",
    "metadata": {
     "papermill": {
-     "duration": 0.022024,
-     "end_time": "2024-08-28T23:36:41.307235",
+     "duration": 0.020351,
+     "end_time": "2024-08-28T23:47:37.387889",
      "exception": false,
-     "start_time": "2024-08-28T23:36:41.285211",
+     "start_time": "2024-08-28T23:47:37.367538",
      "status": "completed"
     },
     "tags": []
@@ -89,13 +122,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "b153a969",
+   "id": "fca0c442",
    "metadata": {
     "papermill": {
-     "duration": 0.021464,
-     "end_time": "2024-08-28T23:36:41.350876",
+     "duration": 0.020408,
+     "end_time": "2024-08-28T23:47:37.429250",
      "exception": false,
-     "start_time": "2024-08-28T23:36:41.329412",
+     "start_time": "2024-08-28T23:47:37.408842",
      "status": "completed"
     },
     "tags": []
@@ -111,13 +144,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "44c2a1e2",
+   "id": "b6d1c803",
    "metadata": {
     "papermill": {
-     "duration": 0.022144,
-     "end_time": "2024-08-28T23:36:41.394856",
+     "duration": 0.020383,
+     "end_time": "2024-08-28T23:47:37.471021",
      "exception": false,
-     "start_time": "2024-08-28T23:36:41.372712",
+     "start_time": "2024-08-28T23:47:37.450638",
      "status": "completed"
     },
     "tags": []
@@ -133,13 +166,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "f5e32c07",
+   "id": "9c7eeca7",
    "metadata": {
     "papermill": {
-     "duration": 0.021828,
-     "end_time": "2024-08-28T23:36:41.439514",
+     "duration": 0.021497,
+     "end_time": "2024-08-28T23:47:37.513077",
      "exception": false,
-     "start_time": "2024-08-28T23:36:41.417686",
+     "start_time": "2024-08-28T23:47:37.491580",
      "status": "completed"
     },
     "tags": []
@@ -154,10 +187,9 @@
    "accelerator": "none",
    "dataSources": [
     {
-     "isSourceIdPinned": true,
-     "modelId": 110936,
-     "modelInstanceId": 86685,
-     "sourceId": 103419,
+     "modelId": 110944,
+     "modelInstanceId": 86693,
+     "sourceId": 103427,
      "sourceType": "modelInstanceVersion"
     }
    ],
@@ -186,14 +218,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 6.574011,
-   "end_time": "2024-08-28T23:36:44.509896",
+   "duration": 3.603069,
+   "end_time": "2024-08-28T23:47:37.964458",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-08-28T23:36:37.935885",
+   "start_time": "2024-08-28T23:47:34.361389",
    "version": "2.6.0"
   }
  },
